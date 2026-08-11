@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**patitos-fortune/patitos-fortune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🦆 Patitos' Fortune
 
-Here are some ideas to get you started:
+Curiosity, data, investing, automation, and the occasional unnecessary contraption.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building:
+
+- 📊 Patitos' Automated Scoring System
+- 🌐 Patitos' Fortune
+- ⚙️ Data and automation tools
+- 🐣 Whatever hatches next
+
+### About this GitHub
+
+A home for personal experiments, data projects, tools, and things that seemed like a good idea at the time.
